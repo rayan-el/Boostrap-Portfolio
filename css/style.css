@@ -1,0 +1,61 @@
+* {
+ background-color: antiquewhite;
+}
+
+header h1 {
+    padding: 10px;
+}
+
+.work-title {
+    padding: 50px;
+    text-align: center;
+    color: black;
+}
+.card-title {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    padding: 10px;
+    
+}
+
+.card-text {
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+
+.col-md-4 {
+    width: 200px;
+    padding: 20px;
+}
+
+.card-mb-3 {
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+
+.contactme {
+    margin: auto;
+
+}
+
+
+.contact-text {
+    padding: 50px;
+    text-align: center;
+
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+    padding: 50px;
+   font-size: 20px;
+}
+
+.container-fluid {
+   margin: auto 50px;
+   padding: 50px;
+}
